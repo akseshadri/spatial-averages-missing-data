@@ -60,8 +60,8 @@ This paper derives approximate estimators for bias and variance of spatial avera
 
 ## Data Sources
 
-- **1° × 1° gridded rainfall**: Rajeevan, M., Bhate, J., Kale, J. D., & Lal, B. (2006). High resolution daily gridded rainfall data for the Indian region. *Current Science*, 91, 296–306.
-- **0.25° × 0.25° gridded rainfall**: Pai, D. S., et al. (2014). Development of a new high spatial resolution (0.25° × 0.25°) long period (1901–2010) daily gridded rainfall dataset over India. *Mausam*, 65, 1–18.
+- **1° × 1° gridded rainfall**: Rajeevan, M., Bhate, J., Kale, J. D., & Lal, B. (2006). High resolution daily gridded rainfall data for the Indian region: Analysis of break and active monsoon spells. *Current Science*, 91, 296–306.
+- **0.25° × 0.25° gridded rainfall**: Pai, D. S., et al. (2014). Development of a new high spatial resolution (0.25° × 0.25°) long period (1901–2010) daily gridded rainfall dataset over India and its comparison with existing datasets over the region. *Mausam*, 65, 1–18.
 
 ## Citation
 
