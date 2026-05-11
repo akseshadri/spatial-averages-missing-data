@@ -65,7 +65,7 @@ This paper derives approximate estimators for bias and variance of spatial avera
 
 ## Citation
 
-If you use this code or data, please cite:
+If you use this code, please cite:
 
 ```bibtex
 @article{Seshadri2018,
