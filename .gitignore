@@ -1,0 +1,30 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+
+# Simulink autosave
+*.slxc
+*.autosave
+
+# MATLAB code generation
+codegen/
+
+# MATLAB output
+*.fig
+*.eps
+*.png
+*.pdf
+*.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
