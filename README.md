@@ -12,6 +12,7 @@ This paper derives approximate estimators for bias and variance of spatial avera
 
 ```
 ├── README.md
+├── LICENSE
 ├── .gitignore
 ├── data/
 │   ├── indiadat.mat          # 1° × 1° gridded daily rainfall (1901–2011, 357 locations)
@@ -81,4 +82,4 @@ If you use this code, please cite:
 
 ## License
 
-Please refer to the journal's data sharing policy. Code is provided as supplementary material to the paper.
+This project is licensed under the [MIT License](LICENSE). If you use this code, please reference the associated paper.
